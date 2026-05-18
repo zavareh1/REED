@@ -1,7 +1,10 @@
 # REED: Resource-Element Energy Difference for Noncoherent OTA-FL
 
+
 This repository contains the PyTorch code used for the experiments in the under-review paper:
+
 **Resource-Element Energy Difference for Noncoherent Over-the-Air Federated Learning**.
+
 It's available at:
 https://arxiv.org/abs/2605.07263
 
