@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Experiment outputs
+runs/*
+!runs/.gitkeep
+outputs/
+results/
+figures/generated/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.log
+
+# Local data/cache
+.torch/
+data/raw/
+data/downloads/
